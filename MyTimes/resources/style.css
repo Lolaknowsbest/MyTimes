@@ -1,6 +1,5 @@
 .header {
   display:inline-block;
-  justify-content: flex-end;
 }
  h1 {
   display: flex;
@@ -8,4 +7,5 @@
   font-size: 14px;
   font-weight: bold;
   color: MediumAquamarine;
+  justify-content: space-between;
  }
