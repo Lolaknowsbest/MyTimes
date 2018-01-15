@@ -1,5 +1,6 @@
 .header {
   display:inline-block;
+  justify-content: flex-end;
 }
  h1 {
   display: flex;
