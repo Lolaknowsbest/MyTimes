@@ -1,5 +1,6 @@
 .header {
   display:inline-block;
+  justify-content: space-around;
 }
  h1 {
   display: flex;
@@ -9,7 +10,7 @@
   color: MediumAquamarine;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 2px solid black;
+  border-bottom: 1px solid black;
  }
 
 .logo{
