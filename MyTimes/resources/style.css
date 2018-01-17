@@ -26,6 +26,7 @@
 }
 
 .logo span {
+  display: flex;
   padding-left: 10px;
   padding-bottom: 10px;
 }
@@ -34,8 +35,7 @@
    border: 2px solid black;
    width: 1200px;
    align-items: center;
-   margin: 0 auto;
-   width: 100px;
+   margin-top: 150px;
  }
 
 .large{
