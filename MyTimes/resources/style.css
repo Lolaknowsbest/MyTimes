@@ -18,15 +18,9 @@
   position: fixed;
 
  }
- #content{
-   display: block;
- }
 
-.logo{
-  display: flex;
-  align-items: center;
-  border: 1px;
-}
+
+
 
 .logo span {
   display: flex;
