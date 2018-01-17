@@ -16,11 +16,16 @@
   border-bottom: 1px solid black;
   padding: 5px 5px;
   position: fixed;
+  z-index: 10px;
 
  }
 
 
-
+.logo{
+  display: flex;
+  align-items: center;
+  border: 1px;
+}
 
 .logo span {
   display: flex;
