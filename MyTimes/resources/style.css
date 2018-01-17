@@ -30,6 +30,7 @@
  .main {
    display: flex;
    border: 2px solid black;
+   width: 1200px;
  }
 
 .large{
