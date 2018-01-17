@@ -13,7 +13,8 @@
   color: MediumAquamarine;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 1px solid black;
+  border: 1px solid black;
+  position: fixed;
  }
 
 .logo{
