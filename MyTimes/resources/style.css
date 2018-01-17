@@ -23,7 +23,7 @@
 .logo{
   display: flex;
   align-items: center;
-  border:
+  border: 1px;
 }
 
 .logo span {
@@ -35,6 +35,7 @@
    border: 2px solid black;
    width: 1200px;
    align-items: center;
+   margin-top: 100px;
  }
 
 .large{
