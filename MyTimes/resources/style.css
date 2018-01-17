@@ -1,10 +1,4 @@
-.header {
-  display:inline-block;
-  padding-right: 10px;
-  color: black;
-  font-family: Verdana;
-  font-weight: bold;
-}
+
  h1 {
   display: flex;
   font-family: Verdana;
@@ -14,12 +8,18 @@
   justify-content: space-between;
   align-items: center;
   border-bottom: 1px solid black;
-  padding: 5px 5px;
+  padding: 25px 25px;
   position: fixed;
   z-index: 10px;
-
  }
 
+ nav span {
+   display: inline-block;
+   padding: 20px 10px;
+   color: black;
+   font-family: Verdana;
+   font-weight: bold;
+ }
 
 .logo{
   display: flex;
@@ -27,17 +27,11 @@
   border: 1px;
 }
 
-.logo span {
-  display: flex;
-  padding-left: 10px;
-  padding-bottom: 10px;
-}
  .main {
    display: flex;
    border: 2px solid black;
    width: 1200px;
    align-items: center;
-   margin-top: 150px;
  }
 
 .large{
