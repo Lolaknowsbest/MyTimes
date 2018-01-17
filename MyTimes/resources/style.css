@@ -18,6 +18,9 @@
   position: fixed;
 
  }
+ #content{
+   display: block;
+ }
 
 .logo{
   display: flex;
