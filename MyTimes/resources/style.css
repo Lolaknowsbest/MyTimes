@@ -13,8 +13,8 @@
   color: MediumAquamarine;
   justify-content: space-between;
   align-items: center;
-  border: 1px solid black;
-  position: fixed;
+  border-bottom: 1px solid black;
+  padding: 5px 5px;
  }
 
 .logo{
@@ -25,4 +25,20 @@
 .logo span {
   padding-left: 10px;
   padding-bottom: 10px;
+}
+ .main {
+   display: flex;
+   flex-direction: column;
+ }
+
+ .large p{
+   border: 2px solid black;
+ }
+
+.medium p{
+  border: 2px solid black;
+}
+
+.small p, img{
+  border: 2px solid black;
 }
