@@ -39,6 +39,7 @@
    border: 2px solid black;
    width: 1200px;
    align-items: center;
+   overflow: scroll;
  }
 
 .large{
