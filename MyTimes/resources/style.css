@@ -17,11 +17,13 @@
   padding: 5px 5px;
   position: fixed;
   z-index: 10px;
+  margin-bottom: 5px;
  }
 
 .logo{
   display: flex;
   align-items: center;
+  border:
 }
 
 .logo span {
