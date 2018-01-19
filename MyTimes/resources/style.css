@@ -39,24 +39,29 @@
    border: 2px solid black;
    width: 1200px;
    align-items: center;
-   overflow: scroll;
  }
+body{
+   overflow: scroll;
+}
 
 .large{
   display: flex;
   flex-direction: column;
   width: 630px;
+  border: 2px solid black;
 }
 
 .medium{
   display: flex;
   flex-direction: column;
   width: 300px;
+  border: 2px solid black;
 }
 .small{
   display: flex;
   flex-direction: column;
   width: 240px;
+  border: 2px solid black
 }
  .large p{
    border: 2px solid black;
