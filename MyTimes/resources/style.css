@@ -6,13 +6,14 @@
   font-weight: bold;
   color: MediumAquamarine;
   justify-content: space-between;
-  align-items: center;
+  padding-bottom: 20px;
   border-bottom: 1px solid black;
   position: fixed;
   z-index: 1px;
   width: 100%;
   height: 80px;
   background-color: white;
+
  }
 
  nav span {
@@ -40,7 +41,7 @@
    width: 1200px;
    justify-content: center;
  }
- 
+
 body{
    overflow: scroll;
 }
