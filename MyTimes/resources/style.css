@@ -6,14 +6,13 @@
   font-weight: bold;
   color: MediumAquamarine;
   justify-content: space-between;
-  padding-bottom: 20px;
+  align-items: center;
   border-bottom: 1px solid black;
   position: fixed;
-  z-index: 1px;
-  width: 100%;
+  z-index: 10px;
+  width: 80%;
   height: 80px;
   background-color: white;
-
  }
 
  nav span {
