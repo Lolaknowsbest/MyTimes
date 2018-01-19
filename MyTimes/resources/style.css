@@ -39,10 +39,8 @@
    border: 2px solid black;
    width: 1200px;
    align-items: center;
- }
-body{
    overflow: scroll;
-}
+ }
 
 .large{
   display: flex;
@@ -63,15 +61,7 @@ body{
   width: 240px;
   border: 2px solid black
 }
- .large p{
-   border: 2px solid black;
- }
-.medium p{
-  border: 2px solid black;
-}
-.small p{
-  border: 2px solid black;
-}
+
 #cookie {
   border: 2px solid black;
 }
