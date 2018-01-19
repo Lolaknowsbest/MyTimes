@@ -27,7 +27,8 @@
   display: flex;
   align-items: center;
   border: 1px solid black;
-  padding-left: 30px;
+  padding-right: 800px;
+  padding-left: 60px
 }
 .logo span {
   color: mediumaquamarine;
