@@ -14,6 +14,10 @@
   height: 80px;
   background-color: white;
  }
+.display {
+  margin-bottom: 5px;
+  border-bottom: 1px solid black;
+}
 
  nav span {
    display: inline-block;
