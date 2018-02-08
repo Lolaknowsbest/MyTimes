@@ -1,0 +1,9 @@
+html{
+  font-size: 18px;
+}
+
+.logo{
+  display: inline-block;
+  background-color: black;
+  margin: 0rem 0.66rem;
+}
